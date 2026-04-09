@@ -72,13 +72,13 @@ export default function LandingPage() {
         },
         {
           name: "Canary",
-          badge: "Coming soon",
+          badge: "Live",
           badgeColor: "bg-[#F59E0B]",
           tagline: "Early warning intelligence",
           description:
             "Real-time signals from student cohorts \u2014 engagement patterns, risk flags, progression analytics \u2014 so faculty can act before students fall behind.",
           accent: "#F59E0B",
-          cta: "Join the waitlist",
+          cta: "Run an assessment →",
           href: null,
           external: false,
         },
