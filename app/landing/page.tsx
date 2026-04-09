@@ -151,25 +151,25 @@ export default function LandingPage() {
         <div className="absolute inset-0 bg-gradient-to-b from-[#2D8B6F]/10 via-transparent to-transparent pointer-events-none" />
         <div className="absolute top-20 left-1/2 -translate-x-1/2 w-[600px] h-[600px] bg-[#2D8B6F]/5 rounded-full blur-3xl pointer-events-none" />
         <div className="max-w-4xl mx-auto text-center relative">
-          <div className="animate-fade-in-up opacity-0">
+          <div className="animate-fade-in-up">
             <div className="inline-flex items-center gap-2 px-3 py-1 mb-6 rounded-full border border-[#2D8B6F]/30 bg-[#2D8B6F]/10 text-[#2D8B6F] text-sm">
               <span className="w-2 h-2 rounded-full bg-[#2D8B6F] animate-pulse" />
               Academic Pathway Intelligence
             </div>
           </div>
-          <h1 className="text-5xl sm:text-7xl font-bold tracking-tight leading-[1.1] animate-fade-in-up opacity-0 delay-100">
+          <h1 className="text-5xl sm:text-7xl font-bold tracking-tight leading-[1.1] animate-fade-in-up delay-100">
             The tools your students need.
             <br />
             <span className="bg-gradient-to-r from-[#2D8B6F] via-[#3B82F6] to-[#7F77DD] bg-clip-text text-transparent">
               The intelligence your faculty deserves.
             </span>
           </h1>
-          <p className="mt-6 text-lg sm:text-xl text-[#0F1C2E]/60 max-w-2xl mx-auto leading-relaxed animate-fade-in-up opacity-0 delay-200">
+          <p className="mt-6 text-lg sm:text-xl text-[#0F1C2E]/60 max-w-2xl mx-auto leading-relaxed animate-fade-in-up delay-200">
             VectorEd builds AI-powered products that close the gap between what
             business schools teach and what the market demands. Real data. Real
             decisions. Real outcomes.
           </p>
-          <div className="mt-10 flex flex-col sm:flex-row items-center justify-center gap-4 animate-fade-in-up opacity-0 delay-300">
+          <div className="mt-10 flex flex-col sm:flex-row items-center justify-center gap-4 animate-fade-in-up delay-300">
             <a
               href="#suite"
               className="px-8 py-3.5 text-base font-semibold rounded-full bg-[#0F1C2E] text-white hover:bg-[#0F1C2E]/90 transition-colors"
